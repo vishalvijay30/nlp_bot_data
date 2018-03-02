@@ -42,11 +42,3 @@ def populate_table(data, table):
                 }
             )
             print("Added question: " + question + " with answer: ", data[question])
-
-
-# def main():
-#     # create_hs_biology_table()
-#     create_hs_energy_table()
-#
-# if __name__=="__main__":
-#     main()
